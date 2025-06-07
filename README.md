@@ -28,4 +28,4 @@ You can edit the HTML file to update personal information, skills, education, or
 This project is for personal use and demonstration purposes.
 
 ## link Project
-https://github.com/johanjojo1/single-page
+https://roadmap.sh/projects/single-page-cv
